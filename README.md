@@ -83,9 +83,9 @@ Star Slides is an always-on-top tool for art students, illustrators or anyone wh
 <!-- Extras -->
 ## Extras
   <ul>
-    <li> <kbd>←</kbd> and <kbd>→</kbd> keys can be used to navigate through images.
-    <li> <kbd>Alt + R</kbd> can be used to restart the application.
-    <li> <kbd>Space bar</kbd> can be used to pause/play the timer.
+    <li> <kbd>←</kbd> and <kbd>→</kbd> keys to navigate through images.
+    <li> <kbd>Alt + R</kbd> to restart the application.
+    <li> <kbd>Space bar</kbd> to pause/play the timer.
   </ul>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
