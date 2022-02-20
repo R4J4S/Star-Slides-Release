@@ -35,9 +35,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://github.com/R4J4S/Star-Slides-Release/releases)
-
+<div align="center">
+  <a href="https://github.com/R4J4S/Star-Slides-Release/releases">
+    <img src="Images/demoSS.png" alt="Logo" width="300" height="300">
+  </a>
+</div>
 Star Slides is a tool for art students, illustrators or anyone who wants to focus on improving their drawing skills.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -46,19 +48,22 @@ Star Slides is a tool for art students, illustrators or anyone who wants to focu
 
 <!-- GETTING STARTED -->
 ## Getting Started
-1. Download the `Setup.exe` from [here.](https://github.com/R4J4S/Star-Slides-Release/releases)
-2. Run the `Setup.exe` to install the tool.
-
+  1. Download the `Setup.exe` from [here.](https://github.com/R4J4S/Star-Slides-Release/releases)
+  2. Run the `Setup.exe` to install the tool.
+    
+  <kbd>
+    <img src= "https://github.com/R4J4S/Star-Slides-Release/blob/main/Images/InstallDemo.gif" width = 250 height = 250/>
+  </kbd>
+  
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+<ul>
+  <li> <h3>Settings</h3>
+  <li> Simple to use just drag folder that contain images into the drop area or click on the drop area to select the path to the folder.
+</ul>
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -88,4 +93,5 @@ Project Link: [https://github.com/R4J4S/Star-Slides-Release](https://github.com/
 [linkedin-url]: https://www.linkedin.com/in/r4j4s/
 [twitter-shield]:https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
 [twitter-url]:https://twitter.com/Real_Rajas
-[product-screenshot]: Images/demoSS.png
+[SettingsDemo]: https://github.com/R4J4S/Star-Slides-Release/blob/main/Images/SettingsDemo.gif "SettingsDemo.gif"
+[DragFileDemo]: https://github.com/R4J4S/Star-Slides-Release/blob/main/Images/DragFileDemo.gif "DragFile.gif"
