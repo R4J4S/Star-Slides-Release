@@ -54,7 +54,7 @@ Star Slides is an always-on-top tool for art students, illustrators or anyone wh
   <li> <h2> Settings Menu</h2>
   <div align = "center">
     <kbd>
-      <img src= "https://github.com/R4J4S/Star-Slides-Release/blob/main/Images/SettingsDemo.gif" width = 500 height = 320/>
+      <img src= "https://github.com/R4J4S/Star-Slides-Release/blob/main/Images/SettingsDemo.gif" width = 500 height = 300/>
     </kbd>
   </div>
 
