@@ -6,17 +6,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
 
-
-<!-- PROJECT LOGO 
-<br />
-<div align="center">
-  <a href="https://github.com/R4J4S/Star-Slides-Release">
-    <img src="Images/logo.png" alt="Logo" width="100" height="100">
-  </a>
-
-  <h3 align="center">Star Slides</h3>
-</div> 
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -77,23 +66,22 @@ Star Slides is an always-on-top tool for art students, illustrators or anyone wh
   <li> <h2> Main Menu </h2>
   <ul>
     <li> Drag folder into the tool or click on the drop area to select the path to the folder.
-    <li> Click on `play icon` to start the timer or press space bar.
+    <li> Click on ▶ to start the timer or press <kbd>Space bar</kbd>.
   </ul>
   
   <div align = "center">
   <kbd>
-    <img src= "https://github.com/R4J4S/Star-Slides-Release/blob/main/Images/DragFileDemo.gif" width = 250 height = 250/>
+    <img src= "https://github.com/R4J4S/Star-Slides-Release/blob/main/Images/DragFileDemo.gif" width = 330 height = 250/>
   </kbd>
   </div>
 
 <li> <h2> Extras </h2>
   <ul>
-    <li> `Right arrow` and `Left arrow` keys can be used to navigate through images.
-    <li> `Alt + R` can be used to restart the application.
-    <li> `Space bar` can be used to pause/play the timer.
+    <li> <kbd>←</kbd> and <kbd>→</kbd> keys can be used to navigate through images.
+    <li> <kbd>Alt + R</kbd> can be used to restart the application.
+    <li> <kbd>Space bar</kbd> can be used to pause/play the timer.
   </ul>
 </ul>
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
