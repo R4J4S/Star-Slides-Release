@@ -26,24 +26,17 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/R4J4S/Star-Slides-Release/releases)
 
 Star Slides is a tool for art students, illustrators or anyone who wants to focus on improving their drawing skills.
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -54,7 +47,7 @@ Star Slides is a tool for art students, illustrators or anyone who wants to focu
 <!-- GETTING STARTED -->
 ## Getting Started
 1. Download the `Setup.exe` from [here.](https://github.com/R4J4S/Star-Slides-Release/releases)
-2. Run the `Setup.exe`
+2. Run the `Setup.exe` to install the tool.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
