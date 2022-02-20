@@ -17,6 +17,7 @@
       <a href="#getting-started">Getting Started</a>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#extras">Extras</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -53,7 +54,7 @@ Star Slides is an always-on-top tool for art students, illustrators or anyone wh
   <li> <h2> Settings Menu</h2>
   <div align = "center">
     <kbd>
-      <img src= "https://github.com/R4J4S/Star-Slides-Release/blob/main/Images/SettingsDemo.gif" width = 500 height = 250/>
+      <img src= "https://github.com/R4J4S/Star-Slides-Release/blob/main/Images/SettingsDemo.gif" width = 500 height = 320/>
     </kbd>
   </div>
 
