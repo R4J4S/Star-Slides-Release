@@ -18,6 +18,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#extras">Extras</a></li>
+    <li><a href="#request-a-feature">Request A Feature</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -51,7 +52,7 @@ Star Slides is an always-on-top tool for art students, illustrators or anyone wh
 <!-- USAGE EXAMPLES -->
 ## Usage
 <ul>
-  <li> <h2> Settings Menu</h2>
+  <li> <h3> Settings Menu</h3>
   <div align = "center">
     <kbd>
       <img src= "https://github.com/R4J4S/Star-Slides-Release/blob/main/Images/SettingsDemo.gif" width = 500 height = 300/>
@@ -64,7 +65,7 @@ Star Slides is an always-on-top tool for art students, illustrators or anyone wh
     <li> Read images from sub folder : Check this if there are more sub folders in root folder.
   </ul>
 
-  <li> <h2> Main Menu </h2>
+  <li> <h3> Main Menu </h3>
   <ul>
     <li> Drag folder into the tool or click on the drop area to select the path to the folder.
     <li> Click on ▶ to start the timer or press <kbd>Space bar</kbd>.
@@ -75,16 +76,30 @@ Star Slides is an always-on-top tool for art students, illustrators or anyone wh
     <img src= "https://github.com/R4J4S/Star-Slides-Release/blob/main/Images/DragFileDemo.gif" width = 330 height = 250/>
   </kbd>
   </div>
+<p align="right">(<a href="#top">back to top</a>)</p>
+</ul>
 
-<li> <h2> Extras </h2>
+
+<!-- Extras -->
+## Extras
   <ul>
     <li> <kbd>←</kbd> and <kbd>→</kbd> keys can be used to navigate through images.
     <li> <kbd>Alt + R</kbd> can be used to restart the application.
     <li> <kbd>Space bar</kbd> can be used to pause/play the timer.
   </ul>
-</ul>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- Feature Request-->
+## Request A Feature
+
+To request a new feature or report a bug, please create a [new issue here](https://github.com/R4J4S/Star-Slides-Release/issues/new) and press `submit new issue` button.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
 
 <!-- LICENSE -->
 ## License
